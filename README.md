@@ -1,8 +1,7 @@
 # Trigger
 
 *The materials in this repository were not produced by its owner.*
-> https://web.archive.org/web/20170102142211/http://yiap.nfshost.com/esoteric/trigger/trigger.html
-
+> <https://web.archive.org/web/20170102142211/http://yiap.nfshost.com/esoteric/trigger/trigger.html>
 
 ## Computational model
 
